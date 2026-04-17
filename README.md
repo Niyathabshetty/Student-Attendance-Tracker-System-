@@ -34,8 +34,8 @@ Build a Java-based system to track student attendance and generate reports.
 
 ## 📸 Output Screenshots
 
-    <td><img src="screenshots/output1.png" width="300"/></td>
-    <td><img src="screenshots/output2.png" width="300"/></td>
+    <img src="screenshots/output1.png" width="300"/>
+    <img src="screenshots/output2.png" width="300"/>
 
 
 ---
